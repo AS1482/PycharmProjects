@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ameur/PycharmProjects/Divers/stdout_stderr_redirect.py", line 19, in <module>
+    b = 5 / 0;
+ZeroDivisionError: integer division or modulo by zero
